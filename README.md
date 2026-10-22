@@ -12,15 +12,15 @@ This repository contains the experimental materials for the paper:
 
 
 
-\## Contents
+## Contents
 
 
 
-\- Raw FPS and frame time datasets
+- Raw FPS and frame time datasets
 
-\- Generated figures used in the paper
+- Generated figures used in the paper
 
-\- Render Video recorded for visual comparison can be seen on Youtube Playlist: https://www.youtube.com/watch?v=daDjPJyB86o&list=PLaHv1eGKS6CyZF2IG05RV7KAHvvU5-xIQ
+- Render Video recorded for visual comparison can be seen on Youtube Playlist: https://www.youtube.com/watch?v=daDjPJyB86o&list=PLaHv1eGKS6CyZF2IG05RV7KAHvvU5-xIQ
 
 
 
